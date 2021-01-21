@@ -9,5 +9,4 @@ def initialize
 end
 end
 
-artist = Artist.new
-artist.name = "Beyonce"
+ 
